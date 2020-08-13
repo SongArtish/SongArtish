@@ -4,7 +4,7 @@
 
 
 
-?Python=3.7.7e&logo=appveyor
+?style=for-the-badge&logo=appveyor
 
 <!--
 **Song-Artish/Song-Artish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
