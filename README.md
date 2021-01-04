@@ -1,5 +1,3 @@
-### Life is Fabulous 👋
-
 [![Song's github stats](https://github-readme-stats.vercel.app/api?username=SongArtish)](https://songartish.github.io/)
 
 <!--
@@ -17,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👆click here to visit resume page
+## 👆 Click here to visit resume page
