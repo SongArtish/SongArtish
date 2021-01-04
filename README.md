@@ -1,6 +1,6 @@
 ### Life is Fabulous 👋
 
-[![Song's github stats](https://github-readme-stats.vercel.app/api?username=SongArtish)](https://github.com/Song-Artish/github-readme-stats)
+[![Song's github stats](https://github-readme-stats.vercel.app/api?username=SongArtish)](https://github.com/SongArtish/SongArtish)
 
 <!--
 **Song-Artish/Song-Artish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
