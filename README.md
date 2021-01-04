@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👆 Click here to visit RESUME page
+### 👆 Click here to visit [resume page](https://songartish.github.io/)
