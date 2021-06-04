@@ -1,6 +1,8 @@
-
-
 ![name](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Songyoung%20Lee&fontSize=70&animation=twinkling)
+
+<br>
+
+<h3 align="center"><a src="https://songartish.github.io/">📄 Resume</a></h3>
 
 <br>
 
@@ -20,7 +22,7 @@
 
 <br>
 
-[![Song's github stats](https://github-readme-stats.vercel.app/api?username=SongArtish){: .center}](https://songartish.github.io/)
+![Song's github stats](https://github-readme-stats.vercel.app/api?username=SongArtish){: .center}
 
 <!--
 **Song-Artish/Song-Artish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
