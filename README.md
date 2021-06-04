@@ -28,7 +28,7 @@
 
 <br>
 
-<center><img src="https://github-readme-stats.vercel.app/api?username=SongArtish"></center>
+<center><img src="https://github-readme-stats.vercel.app/api?username=SongArtish" width="800"></center>
 
 <!--
 **Song-Artish/Song-Artish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
