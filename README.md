@@ -2,9 +2,13 @@
 
 <br>
 
+<!--
+
 <h3 align="center"><a src="https://songartish.github.io/">📄 Resume</a></h3>
 
 <br>
+
+-->
 
 <h3 align="center">⚙️ Tech Stack</h3>
 
